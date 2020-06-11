@@ -7,11 +7,19 @@
 /*
 Exercise One - Accessing an array
 
-Log the word "jumped" to the console by accessing it in the array.
 */
 
 let sentence = ["The", "dog", "jumped", "over", "the", "fence"];
-// Your Code here
+
+// Step One ------------------
+// Log the word "jumped" to the console by accessing it in the array.
+
+// Your Code Here
+
+// Step Two ------------------
+// Log the last word in the array to the console.
+
+// Your Code Here
 
 /*
 ---------------------------------------------------------------------------
@@ -33,13 +41,13 @@ Exercise Three - Creating an array
 
 */
 
-// Step One
+// Step One ------------------
 // Create a new array and initialize with the names of five different colors.
 // The array should be assigned to a variable named "colors"
 
 // Your Code Here
 
-// Step Two
+// Step Two ------------------
 // Log the length of the array to the console (it should print 5)
 
 /*
@@ -50,13 +58,13 @@ Exercise Four - Updating an array
 
 let names = []; // Don't modify this line.
 
-// Step One
+// Step One ------------------
 // Add 5 names of people to the array.
 // Then log your array to the console.
 
 // Your Code Here
 
-// Step Two
+// Step Two ------------------
 // Using the index variable, assign a new name to the given index.
 // Then log the modified array to the console.
 let index = 2;
